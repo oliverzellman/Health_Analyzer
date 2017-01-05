@@ -32,7 +32,6 @@ public class XMLParser {
                             //yohoho
                             //Is there a problem here?
         
-        System.out.println("This is the provocated mistake by Fabian!!");
         XMLParser main = new XMLParser();
         try {
             DocumentBuilderFactory dbFactory
